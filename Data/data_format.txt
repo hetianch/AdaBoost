@@ -1,0 +1,2 @@
+X: each row of X is a 6-d feature vector 
+Y: each row of Y is the class label (+1/-1)
